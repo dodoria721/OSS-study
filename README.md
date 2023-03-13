@@ -1,2 +1,1 @@
-# OSS 공부를 위한 저장소 입니다. 
-# 잘부탁드려요 ^^
+# This is OSS study
